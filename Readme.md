@@ -1,3 +1,3 @@
 # Practice
 
-github practce.
+github practice.
